@@ -1,9 +1,9 @@
-# **Example README**
+# **University Coding**
 
 
-This is some example text.
+This repository contains work I completed during BSc Zoology at Queen Mary University of London.
 
-## And now I'm adding a plot
+## Data visualisation examples
 
 
 ![A histogram of penguins](histograms.png)
