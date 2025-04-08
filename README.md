@@ -6,7 +6,7 @@ This is some example text.
 ## And now I'm adding a plot
 
 
-![A histogram of penguins](./my_plots/histograms.png)
+![A histogram of penguins](histograms.png)
 
 
 ## I can also add a link to a [folder](./my_plots)
