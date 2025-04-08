@@ -1,0 +1,7 @@
+Month,spp,site_1,site_2,site_3,site_4,site_5
+January,red_beetle,0,1,1,NA,NA
+January,blue_beetle,5,6,2,NA,NA
+January,pink_beetle,8,8,2,NA,NA
+February,red_beetle,NA,NA,NA,1,1
+February,blue_beetle,NA,NA,NA,0,0
+February,pink_beetle,NA,NA,NA,4,2
